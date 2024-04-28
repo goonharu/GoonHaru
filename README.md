@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GoonHaru.aka.AHk
-- :jack_o_lantern: I’m interested in Learning Computer Programing
-- 🌱 I’m currently learning Python from my University
+- :jack_o_lantern: I’m interested in Learning Computer Science
+- 🌱 I’m currently learning Python at my University
 - 💞️ I’m looking to collaborate on in every project that I can
 - 📫 How to reach me Discord here - h.goon
 
