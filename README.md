@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @GoonHaru.aka.AHK<br>🎃 I’m interested in Learning Computer Science<br>💞️ I’m looking to collaborate on in every project that I can<br>📫 How to reach me Discord here - goon.sh
+👋 Hi, I’m @GoonHaru.aka.AHK<br>🎃 I’m interested in Learning Computer Science<br>💞️ I’m looking to collaborate in every project that I can<br>📫 How to reach me Discord here - goon.sh
 
 
 ## 🌐 Socials:
